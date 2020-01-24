@@ -1,0 +1,21 @@
+button{
+    height: 2rem;
+    width: 5rem;
+    position: fixed;
+    margin-left:43% ;    
+}
+.squares {
+    width: 10rem;
+    height: 10rem;
+    font-size: 5rem;
+    text-align: center;
+    /* position: relative; */
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 9rem;
+    vertical-align: middle;
+    margin: 0.2rem;
+    margin-top: 2.01rem;
+    float: left;
+}
