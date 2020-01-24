@@ -1,5 +1,5 @@
 //color array
-var RYGB=["red","yellow","blue","green"];
+var RYGB=["red","yellow","blue","orange","purple", "cyan","aqua"];
 //created button
 document.addEventListener("DOMContentLoaded" , function(){
     var btn =document.createElement("button");
